@@ -1,2 +1,2 @@
-# we-school-web-designe-corse
-we school web design corse
+# Web Design Ccourse
+This repository is for a web design course for summer training in my school
